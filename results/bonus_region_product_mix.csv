@@ -1,0 +1,13 @@
+Region,Category,Total_Sales,Margin_Pct
+Central,Technology,170416.31,19.77
+Central,Office Supplies,167026.42,5.32
+Central,Furniture,163797.16,-1.75
+East,Office Supplies,205516.05,19.96
+East,Technology,264973.98,17.91
+East,Furniture,208291.2,1.46
+South,Office Supplies,125651.31,15.91
+South,Technology,148771.91,13.44
+South,Furniture,117298.68,5.77
+West,Office Supplies,220853.25,23.82
+West,Technology,251991.83,17.58
+West,Furniture,252612.74,4.55
