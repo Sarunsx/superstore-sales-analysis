@@ -50,3 +50,16 @@ across product categories, regions, and customer segments.
 
 ---
 *Project by Sarunsx | Data Analyst Portfolio*
+## Dashboard Preview
+
+### Overall
+![Overall](Overall.jpg)
+
+### By Region
+| West | East |
+|---|---|
+| ![West](West.jpg) | ![East](East.jpg) |
+
+| Central | South |
+|---|---|
+| ![Central](Central.jpg) | ![South](South.jpg) |
