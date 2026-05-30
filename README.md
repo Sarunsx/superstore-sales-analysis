@@ -4,7 +4,7 @@
 SQL + Python analysis of 9,994 sales transactions to uncover business insights
 across product categories, regions, and customer segments.
 
-**Tools:** Python, Pandas, SQLite, Matplotlib, Google Colab  
+**Tools:** Python, Pandas, SQLite, Matplotlib, Google Colab
 **Dataset:** Superstore Sales Dataset (Kaggle)
 
 ---
